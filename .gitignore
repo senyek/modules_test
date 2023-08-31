@@ -1,0 +1,5 @@
+.idea/
+.vs/
+CMakeSettings.json
+vc140.pdb
+cmake-build-debug
