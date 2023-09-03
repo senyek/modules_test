@@ -1,7 +1,5 @@
 export module test_module;
 
-import <string>;
-
 export class fishcake
 {
 public:
